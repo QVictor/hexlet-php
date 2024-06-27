@@ -1,0 +1,15 @@
+{
+    "name": "victor/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Victor\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "qVictor",
+            "email": "qqlogin@yandex.ru"
+        }
+    ],
+    "require": {}
+}
